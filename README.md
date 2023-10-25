@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Horomanski</h1>
 <h3 align="center">Building positive impact digital products</h3>
 
-- 🔭 I’m currently working on [useval.com](useval.com)
+- 🔭 I’m currently working on [useeval.com](https://useeval.com)
 
 - 🌱 I’m currently learning **Nextjs 13**
 
